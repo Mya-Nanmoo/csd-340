@@ -27,7 +27,10 @@
             </li>      
             <li>
                 <a href="Module_5/mnanmoo_EX4.html">Assignment 5.2</a>
-            </li>   
+            </li>
+               <li>
+                <a href="Module_7/mnanmoo_EX5.html">Assignment 7.2</a>
+            </li> 
         </ul>
 
         <h3>Projects</h3>
